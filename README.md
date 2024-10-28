@@ -4,7 +4,7 @@
 | Desenvolvedor            | Tarefa                       | Data de Início       | Data Final        |
 |--------------------------|------------------------------|----------------------|-------------------|
 | Gustavo                  | Implementar HTML             | 01/10/2024          | 05/10/2024        |
-| Nome do Desenvolvedor 2  | Implementar CSS              | 02/10/2024          | 06/10/2024        |
+| Henrique                 | Implementar CSS              | 02/10/2024          | 06/10/2024        |
 
 
 **Legenda de Status:**
